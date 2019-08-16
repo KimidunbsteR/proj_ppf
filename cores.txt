@@ -1,0 +1,4 @@
+#015488 (Azul)
+#FFD454 (Amarelo)
+#E5E6E7 (Cinza)
+#FFFFFF (Branco)

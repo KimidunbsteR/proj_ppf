@@ -1,0 +1,53 @@
+@font-face {
+    font-family: 'banaue';
+    src: url('fonte/Banaue-Regular.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'utsaah';
+    src: url('fonte/utsaah.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #E5E6E7;
+}
+nav {
+    display: flex;
+    background-color: #015488;
+    position:fixed;
+    top:0;
+    width:100%;
+    height: 65px;
+}
+#logo {
+    width: 200px;
+    height: 150px;
+}
+#linkse {
+    display: flex;
+    width: 50vw;
+    justify-content: space-around;
+    align-items: center;
+}
+#linksd {
+    display: flex;
+    width: 50vw;
+    justify-content: end;
+    align-items: center;
+}
+#lk5 {
+    margin: 0px 15px 0px 15px;
+}
+#lk6 {
+    margin: 0px 35px 0px 15px;
+}
+nav a {
+    font-family: 'utsaah';
+    text-decoration: none;
+    color: #FFD454;
+    font-size: 16pt;
+}
